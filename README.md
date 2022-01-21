@@ -1,5 +1,6 @@
 # sql-odev1
 https://app.patika.dev/moduller/sql/Odev1 <br>
+To download the example database https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip <br>
 Solution of the first homework.Every row represents a solution in order
 <br><br><br>
 ENGLISH:<br>
